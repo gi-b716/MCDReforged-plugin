@@ -1,0 +1,14 @@
+{
+    "id": "announcement",
+    "version": "1.0-pre1",
+    "name": "Announcement",
+    "description": {
+        "en_us": "A MCDReforged plugin that can send announcements to all players in the server.",
+        "zh_cn": "可以向全服玩家发送公告的插件。"
+    },
+    "author": "GavinCQTD",
+    "link": "https://github.com/MCDReforged/MCDReforged-ExamplePlugin",
+    "dependencies": {
+        "mcdreforged": ">=2.0.0"
+    }
+}
