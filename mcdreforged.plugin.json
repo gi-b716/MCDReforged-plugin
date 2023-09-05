@@ -7,7 +7,7 @@
         "zh_cn": "可以向全服玩家发送公告的插件。"
     },
     "author": "GavinCQTD",
-    "link": "https://github.com/MCDReforged/MCDReforged-ExamplePlugin",
+    "link": "https://github.com/gi-b716/MCDReforged-plugin/tree/Announcement",
     "dependencies": {
         "mcdreforged": ">=2.0.0"
     }
