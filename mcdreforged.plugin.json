@@ -1,0 +1,15 @@
+{
+	"id": "spawnpoint",
+	"version": "1.0.0",
+	"name": "spawnpoint",
+	"description": {
+		"en_us": "allow player set spawnpoint with no op",
+		"zh_cn": "允许玩家在没有op权限时设置重生点"
+	},
+	"dependencies": {
+        "mcdreforged": ">=2.0.1",
+        "minecraft_data_api": "*"
+    },
+	"author": "GavinCQTD",
+    "link": "https://github.com/"
+}
